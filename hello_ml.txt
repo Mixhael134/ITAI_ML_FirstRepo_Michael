@@ -1,3 +1,4 @@
 This is my first GitHub file for the Classic Machine Learning course.
 Hello from Roderick J. Taylor
 Hello from Lynnia Salter
+Hello from Michael Rodriguez 
